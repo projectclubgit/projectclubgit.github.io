@@ -1,1 +1,3 @@
-# TheProjectClub.github.io
+# theprojectclub.github.io
+
+Project Club's offcial website.
